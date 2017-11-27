@@ -6,4 +6,4 @@ En la página de Youtube, definir que cosas pertenecen al Ux y al UI.
 
 ### Cuadro
 
-![Sin titulo](assets/docs/YOUTUBE.docx)
+![Sin titulo](assets/images/1.png)
